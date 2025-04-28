@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 numpy
 pandas
 matplotlib
@@ -6,3 +7,13 @@ tensorflow
 streamlit
 pillow
 argparse
+=======
+numpy
+pandas
+matplotlib
+seaborn
+tensorflow
+streamlit
+pillow
+argparse
+>>>>>>> 87a3535f404dc379d797356b3283544e495732b3
